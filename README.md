@@ -2,7 +2,7 @@
 This project is used for me to dive deeply into data wrangling. This is a coure from udacity's data analysis nanodegree program
 
 ## Introduction
-Standard data wrangling process can be divied into 3 parts.
+Standard data wrangling process can be divied into 4 parts.
 
 - Gathering data, in this step, I should try to get enough data, using web scraper
 - Accessing data, in this step, I find what problems this dataset has
